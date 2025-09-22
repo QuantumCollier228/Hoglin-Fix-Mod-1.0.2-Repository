@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "hoglinfixmod:raw_hoglin_meat"
+  },
+  "result": "hoglinfixmod:cooked_hoglin_meat",
+  "experience": 0.35,
+  "cookingtime": 200
+}
